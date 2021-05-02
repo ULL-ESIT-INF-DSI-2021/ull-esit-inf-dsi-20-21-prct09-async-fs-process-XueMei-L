@@ -3,6 +3,9 @@ import * as yargs from 'yargs';
 import * as chalk from 'chalk';
 import {spawn} from 'child_process';
 
+/**
+ * Comandos para mostrar la informacion de un fichero
+ */
 yargs.command({
     command: 'show',
     describe: 'Show infomations about a file',
