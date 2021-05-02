@@ -1,3 +1,0 @@
-This is a test file
-The name of the file is test3.txt
-bye
